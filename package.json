@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/login": "file:./modules/login/",
+    "@modules/maps": "file:./modules/maps/",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
@@ -23,6 +24,7 @@
     "react-native-dotenv": "^2.5.3",
     "react-native-elements": "^3.3.1",
     "react-native-gesture-handler": "^1.10.3",
+    "react-native-maps": "0.27.1",
     "react-native-reanimated": "^2.0.0",
     "react-native-responsive-screen": "^1.4.2",
     "react-native-safe-area-context": "^3.2.0",
